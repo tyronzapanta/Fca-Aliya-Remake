@@ -1,6 +1,6 @@
 {
-  "name": "fca-aliya-remake",
-  "version": "30.0.18",
+  "name": "fca-aliiya-remake",
+  "version": "40.0.10",
   "description": "Facebook Chat Api Made by Anup Kumar",
   "main": "index.js",
   "scripts": {
