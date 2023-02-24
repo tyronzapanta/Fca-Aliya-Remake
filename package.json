@@ -1,6 +1,6 @@
 {
   "name": "fca-aliya-anup",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Facebook Chat Api Made by Anup Kumar",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "https-proxy-agent": "latest",
     "is-hexcolor": "^1.0.0",
     "jsdom": "^20.0.3",
-    "lodash": "latest",
+    "lodash": "",
     "mqtt": "latest",
     "npmlog": "latest",
     "os": "latest",
