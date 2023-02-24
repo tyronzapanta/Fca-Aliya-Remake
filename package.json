@@ -1,6 +1,6 @@
 {
-  "name": "fca-aliiya-remake",
-  "version": "40.0.20",
+  "name": "fca-aliya-anup",
+  "version": "1.0.0",
   "description": "Facebook Chat Api Made by Anup Kumar",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "aes-js": "latest",
-    "aliya-anup": "latest",
-    "anup-database": "latest",
+    "aliya-remake": "latest",
+    "aliya-anup-database": "latest",
     "assert": "latest",
     "bluebird": "latest",
     "chalk": "4.1.2",
