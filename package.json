@@ -1,5 +1,5 @@
 {
-  "name": "fca-aliya-anup",
+  "name": "the-test-fca",
   "version": "1.0.5",
   "description": "Facebook Chat Api Made by Anup Kumar",
   "main": "index.js",
@@ -8,15 +8,15 @@
     "lint": "./node_modules/.bin/eslint **.js",
     "prettier": "prettier utils.js src/* --write"
   },
-  "author": "Anup Kumar, Aliya Khan",
+  "author": "unknown",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Anupx0/Fca-Aliya-Remake/issues"
+    "url": "https://github.com/tyronzapanta/Fca-Aliya-Remake/issues"
   },
   "homepage": "https://github.com/Anupx0/Fca-Aliya-Remake#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anupx0/Fca-Aliya-Remake"
+    "url": "https://github.com/tyronzapanta/Fca-Aliya-Remake"
   },
   "dependencies": {
     "aes-js": "latest",
@@ -83,9 +83,9 @@
     }
   },
   "keywords": [
-    "Fca aliya",
-    "fca-aliya",
-    "aliya fca",
-    "aliya"
+    "Fca",
+    "fca-test",
+    "the-test-fca",
+    "the-fca-test"
   ]
 }
