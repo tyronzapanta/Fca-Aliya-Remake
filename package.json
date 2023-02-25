@@ -1,7 +1,7 @@
 {
   "name": "the-test-fca",
   "version": "1.0.5",
-  "description": "Facebook Chat Api Made by Anup Kumar",
+  "description": "Facebook Chat Api Made bt Unknown",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/tyronzapanta/Fca-Aliya-Remake/issues"
   },
-  "homepage": "https://github.com/Anupx0/Fca-Aliya-Remake#readme",
+  "homepage": "https://github.com/tyronzapanta/Fca-Aliya-Remake#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/tyronzapanta/Fca-Aliya-Remake"
